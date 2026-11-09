@@ -1,3 +1,6 @@
+My work for the Yandex Lyceum ROS 2 course. Practicing with Docker, AI, OpenCV, and LiDAR. Pushing my code here to sync my progress across different devices. everything bellow is the instruction by the course creator
+
+
 # Симуляция Robomarvel
 
 Учебный симулятор к курсу «Интеллектуальная робототехника с ROS 2».
